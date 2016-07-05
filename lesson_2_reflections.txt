@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+-a git folder is placed in the directory and git will now begin tracking changes to the files in the directory. If we don't do this step, we can never track changes to the files
