@@ -3,3 +3,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 -the staging area allows you to view changes made to the working directory before actually committing them. It allows you to accept or reject any changes before the commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+-we can actually see the changes made to the file before committing it
+
