@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 -a git folder is placed in the directory and git will now begin tracking changes to the files in the directory. If we don't do this step, we can never track changes to the files
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-the staging area allows you to view changes made to the working directory before actually committing them. It allows you to accept or reject any changes before the commit
