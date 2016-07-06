@@ -13,3 +13,6 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 -send emails back and forth tracking changes, would be difficult because you would never know which is the most recent version and the exact changes that have been made
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+-if you don't know whether the changes will affect the overall product and want to verify with the creator before putting the changes in the main branch
+
